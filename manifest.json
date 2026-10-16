@@ -1,0 +1,27 @@
+{
+  "name": "מידע אמין על מין",
+  "short_name": "מידע אמין",
+  "description": "השתלמות מידע אמין על מין: לוח מפגשים",
+  "lang": "he",
+  "dir": "rtl",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#D9C7F8",
+  "theme_color": "#D9C7F8",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
